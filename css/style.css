@@ -1,4 +1,4 @@
-/********** Template CSS **********/
+
 :root {
     --primary: #2EB872;
     --light: #F3F4F5;
@@ -14,7 +14,7 @@
 }
 
 
-/*** Spinner ***/
+
 #spinner {
     opacity: 0;
     visibility: hidden;
@@ -29,7 +29,7 @@
 }
 
 
-/*** Button ***/
+
 .btn {
     font-weight: 500;
     transition: .5s;
@@ -66,7 +66,6 @@
 }
 
 
-/*** Navbar ***/
 .navbar.sticky-top {
     top: -100px;
     transition: .5s;
